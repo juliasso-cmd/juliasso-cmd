@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-Hi there 👋 
-###Hi there 👋Hi there 👋Hi there 👋
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
 
 <!--
 **juliasso-cmd/juliasso-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
