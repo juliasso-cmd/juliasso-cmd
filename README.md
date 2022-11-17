@@ -1,10 +1,16 @@
 ### Hi there 👋👽
 
 
+![](https://komarev.com/ghpvc/?username=juliasso-cmd&color=green)
+
 ```
 let message = 'Hello world';
 alert(message);
 ```
+
+![](https://komarev.com/ghpvc/?juliasso-cmd)
+
+
 
 
 <!--
